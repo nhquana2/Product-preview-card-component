@@ -118,6 +118,6 @@ a {
         width: 100%;
     }
     .card__left {
-        max-height: 35vh;
+        height: 35vh;
     }
 }
